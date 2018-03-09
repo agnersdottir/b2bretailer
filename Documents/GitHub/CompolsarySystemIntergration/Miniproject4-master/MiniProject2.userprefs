@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C61FB8B5-7887-4EE8-A632-868B16E979BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Retailer/Retailer.cs">
+    <Files>
+      <File FileName="MiniProject2/CustomerGateway.cs" Line="54" Column="13" />
+      <File FileName="MiniProject2/App.config" Line="1" Column="1" />
+      <File FileName="MiniProject2/CustomerProgram.cs" Line="1" Column="1" />
+      <File FileName="MiniProject2/packages.config" Line="1" Column="1" />
+      <File FileName="Messages/App.config" Line="1" Column="1" />
+      <File FileName="Messages/OrderReplyMessage.cs" Line="1" Column="1" />
+      <File FileName="Messages/packages.config" Line="1" Column="1" />
+      <File FileName="Messages/Program.cs" Line="1" Column="1" />
+      <File FileName="Objects/App.config" Line="1" Column="1" />
+      <File FileName="Objects/CustomerReply.cs" Line="1" Column="1" />
+      <File FileName="Objects/Customer.cs" Line="1" Column="1" />
+      <File FileName="Retailer/RetailerProgram.cs" Line="1" Column="1" />
+      <File FileName="Retailer/Retailer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
